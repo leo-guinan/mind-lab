@@ -311,7 +311,6 @@ def build_dashboard(state):
 
 def worker(state, worker_id):
     """Worker thread: pull from global queue, label, update state."""
-    print(f'[W{worker_id}] started', flush=True)
     while state.running:
         try:
             tweet = state.queue.get(timeout=1)
