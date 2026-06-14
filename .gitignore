@@ -1,0 +1,44 @@
+# Secrets / private analysis artifacts
+.env
+.env.*
+*.private.*
+.secrets/
+secrets/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large binaries and archives
+*.parquet
+*.csv.gz
+*.tar.gz
+*.zip
+*.tar
+*.7z
+
+# OS / editor junk
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Git
+.git/
