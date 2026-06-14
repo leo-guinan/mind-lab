@@ -1,0 +1,1598 @@
+{
+  "ollama-llama3.2": {
+    "model": "llama3.2",
+    "type": "ollama",
+    "cost_per_1M_in": 0,
+    "cost_per_1M_out": 0,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 15.4,
+    "avg_time_s": 0.73,
+    "total_tokens_in": 7578,
+    "total_tokens_out": 1192,
+    "avg_tokens_in": 361,
+    "avg_tokens_out": 57,
+    "total_cost_usd": 0.0,
+    "cost_per_1k_tweets": 0.0,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 1.3,
+        "tokens_in": 389,
+        "tokens_out": 87,
+        "tokens_per_sec": 67.1,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new coaching service and transformational program\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains the concept of coaching and its benefits\"}, \"coordination\": {\"weight\": 0, \"reason\": \"none\", \"news\": {\"weight\": 0, \"reason\": \"none\"}}}"
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 0.64,
+        "tokens_in": 342,
+        "tokens_out": 45,
+        "tokens_per_sec": 70.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 100, \"reason\": \"calls to action and organizing people\"}, \"news\": {\"weight\": 90, \"reason\": \"shares current events and announcements\"}}}"
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 0.74,
+        "tokens_in": 369,
+        "tokens_out": 56,
+        "tokens_per_sec": 75.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new causal claim about data collection and analysis\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of data-driven decision making\"}}}"
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 0.56,
+        "tokens_in": 336,
+        "tokens_out": 40,
+        "tokens_per_sec": 71.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 100, \"reason\": \"calls to action\"}, \"personal_story\": {\"weight\": 0, \"reason\": \"not applicable\"}}}"
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 0.62,
+        "tokens_in": 357,
+        "tokens_out": 45,
+        "tokens_per_sec": 72.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"personal_story\": {\"weight\": 90, \"reason\": \"shares personal experience and reflection\"}, \"prediction\": {\"weight\": 10, \"reason\": \"forecasts a different life path\"}}}"
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 0.63,
+        "tokens_in": 373,
+        "tokens_out": 45,
+        "tokens_per_sec": 71.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 90, \"reason\": \"calls to action and organizing people\"}, \"personal_story\": {\"weight\": 10, \"reason\": \"shares experience and journey\"}}}"
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 0.8,
+        "tokens_in": 329,
+        "tokens_out": 65,
+        "tokens_per_sec": 81.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 0, \"reason\": \"\"}, \"observation\": {\"weight\": 100, \"reason\": \"describes a pattern (distracting commentary)\"}, \"teaching\": {\"weight\": 40, \"reason\": \"explains concept of distraction\"}}}"
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 0.63,
+        "tokens_in": 342,
+        "tokens_out": 47,
+        "tokens_per_sec": 74.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 100, \"reason\": \"calls to action and collaborative intent\"}, \"personal_story\": {\"weight\": 0, \"reason\": \"shares personal journey but lacks depth\"}}}"
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 0.68,
+        "tokens_in": 355,
+        "tokens_out": 53,
+        "tokens_per_sec": 78.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new model for content library conversion\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of SEO-focused content\"}}}"
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 0.62,
+        "tokens_in": 332,
+        "tokens_out": 46,
+        "tokens_per_sec": 74.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"news\": {\"weight\": 100, \"reason\": \"shares current event (delivery of MacBook)\"}, \"coordination\": {\"weight\": 0, \"reason\": \"no call to action\"}}}"
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 0.88,
+        "tokens_in": 499,
+        "tokens_out": 69,
+        "tokens_per_sec": 78.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"personal_story\": {\"weight\": 90, \"reason\": \"shares personal experience and journey\"}, \"research\": {\"weight\": 10, \"reason\": \"investigates past experiences and platforms used\"}, \"teaching\": {\"weight\": 0, \"reason\": \"\"}}, \"dominant\": \"personal_story\"}"
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 0.83,
+        "tokens_in": 331,
+        "tokens_out": 73,
+        "tokens_per_sec": 88.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new model (YouTube channel) and framework (premiering announcement)\"}, \"coordination\": {\"weight\": 10, \"reason\": \"calls to action (watch in a few minutes)\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 0.71,
+        "tokens_in": 358,
+        "tokens_out": 58,
+        "tokens_per_sec": 82.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new model for managing procrastination and setting up beta users\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of email list setup\"}}}"
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 0.71,
+        "tokens_in": 390,
+        "tokens_out": 54,
+        "tokens_per_sec": 76.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal model and framework for understanding information gradients\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of information gradients\"}}}"
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 0.75,
+        "tokens_in": 357,
+        "tokens_out": 62,
+        "tokens_per_sec": 82.5,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new tool and asks for customization of a Go To Market strategy\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept in the context of GTM strategy\"}}}"
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 0.66,
+        "tokens_in": 334,
+        "tokens_out": 52,
+        "tokens_per_sec": 78.5,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new conceptual framework or metaphor\"}, \"teaching\": {\"weight\": 10, \"reason\": \"uses an analogy to explain a concept\"}}}"
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 0.71,
+        "tokens_in": 366,
+        "tokens_out": 56,
+        "tokens_per_sec": 78.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new causal claim about the challenges of selling before validation\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of market trust\"}}}"
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 0.8,
+        "tokens_in": 386,
+        "tokens_out": 65,
+        "tokens_per_sec": 81.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new model (the 10th muse) and causal claim about how silence works\"}, \"personal_story\": {\"weight\": 5, \"reason\": \"shares personal experience with the 10th muse\"}}}"
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 0.68,
+        "tokens_in": 342,
+        "tokens_out": 53,
+        "tokens_per_sec": 77.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal model and framework for conscious economics\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains concept of conscious economics\"}}}"
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 0.77,
+        "tokens_in": 367,
+        "tokens_out": 63,
+        "tokens_per_sec": 82.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new failure mode and its consequences\"}, \"personal_story\": {\"weight\": 10, \"reason\": \"shares an experience of discovering the failure mode\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 0.71,
+        "tokens_in": 324,
+        "tokens_out": 58,
+        "tokens_per_sec": 82.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new perspective on time and progress\"}, \"teaching\": {\"weight\": 10, \"reason\": \"explains the concept of 'trust' in a broader context\"}}}"
+      }
+    ]
+  },
+  "ollama-llama3.1-8b": {
+    "model": "llama3.1:8b",
+    "type": "ollama",
+    "cost_per_1M_in": 0,
+    "cost_per_1M_out": 0,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 40.6,
+    "avg_time_s": 1.93,
+    "total_tokens_in": 7263,
+    "total_tokens_out": 1539,
+    "avg_tokens_in": 346,
+    "avg_tokens_out": 73,
+    "total_cost_usd": 0.0,
+    "cost_per_1k_tweets": 0.0,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 10.75,
+        "tokens_in": 374,
+        "tokens_out": 56,
+        "tokens_per_sec": 5.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coaching\": {\"weight\": 90, \"reason\": \"offers guidance and feedback\"},\n\"research\": {\"weight\": 10, \"reason\": \"asks questions about interest in coaching program\"}\n},\n\"dominant\": \"coaching\"\n}"
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 1.63,
+        "tokens_in": 327,
+        "tokens_out": 81,
+        "tokens_per_sec": 49.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coordination\": {\"weight\": 100, \"reason\": \"calls to action with presale link\"},\n\"news\": {\"weight\": 80, \"reason\": \"shares current event or development (presale)\"},\n\"teaching\": {\"weight\": 20, \"reason\": \"explains concept of presale\"}\n},\n\"dominant\": \"coordination\"\n}"
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 1.58,
+        "tokens_in": 354,
+        "tokens_out": 78,
+        "tokens_per_sec": 49.5,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"research\": {\"weight\": 90, \"reason\": \"asks questions and gathers data\"},\n\"teaching\": {\"weight\": 60, \"reason\": \"explains concept for others to understand\"},\n\"original_theory\": {\"weight\": 20, \"reason\": \"introduces new causal model\"}\n},\n\"dominant\": \"research\"\n}"
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 1.08,
+        "tokens_in": 321,
+        "tokens_out": 51,
+        "tokens_per_sec": 47.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coordination\": {\"weight\": 100, \"reason\": \"calls to action\"},\n\"research\": {\"weight\": 20, \"reason\": \"asks questions indirectly\"}\n},\n\"dominant\": \"coordination\"\n}"
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 1.5,
+        "tokens_in": 342,
+        "tokens_out": 75,
+        "tokens_per_sec": 50.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"personal_story\": {\"weight\": 90, \"reason\": \"shares an experience\"},\n\"coordination\": {\"weight\": 10, \"reason\": \"calls to action (meeting people now)\"},\n\"news\": {\"weight\": 0, \"reason\": \"no current events or announcements\"}\n},\n\"dominant\": \"personal_story\"\n}"
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 1.62,
+        "tokens_in": 358,
+        "tokens_out": 81,
+        "tokens_per_sec": 50.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coordination\": {\"weight\": 100, \"reason\": \"calls to action and organizing people\"},\n\"prediction\": {\"weight\": 80, \"reason\": \"forecasts a future outcome or trend with reasoning\"},\n\"teaching\": {\"weight\": 20, \"reason\": \"explains concept of timer challenge\"}\n},\n\"dominant\": \"coordination\"\n}"
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 1.53,
+        "tokens_in": 314,
+        "tokens_out": 80,
+        "tokens_per_sec": 52.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"observation\": {\"weight\": 100, \"reason\": \"describes a pattern (distracting commentary)\"},\n\"teaching\": {\"weight\": 60, \"reason\": \"explains concept of distraction in listening to commentary\"},\n\"personal_story\": {\"weight\": 20, \"reason\": \"shares personal experience\"}\n},\n\"dominant\": \"observation\"\n}"
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 1.28,
+        "tokens_in": 327,
+        "tokens_out": 61,
+        "tokens_per_sec": 47.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coordination\": {\"weight\": 90, \"reason\": \"calls to action and organizing people\"},\n\"news\": {\"weight\": 10, \"reason\": \"shares current event (new microsaas launch)\"}\n},\n\"dominant\": \"coordination\"\n}"
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 1.43,
+        "tokens_in": 340,
+        "tokens_out": 72,
+        "tokens_per_sec": 50.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new framework for converting content library into SEO-focused content\"},\n\"teaching\": {\"weight\": 10, \"reason\": \"explains concept of productizing content quickly and easily\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 1.1,
+        "tokens_in": 317,
+        "tokens_out": 52,
+        "tokens_per_sec": 47.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"news\": {\"weight\": 100, \"reason\": \"shares current event\"},\n\"coordination\": {\"weight\": 80, \"reason\": \"calls to action with link\"}\n},\n\"dominant\": \"news\"\n}"
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 1.73,
+        "tokens_in": 484,
+        "tokens_out": 76,
+        "tokens_per_sec": 43.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"personal_story\": {\"weight\": 90, \"reason\": \"shares personal experience\"},\n\"synthesis\": {\"weight\": 70, \"reason\": \"connects multiple platforms and tools\"},\n\"teaching\": {\"weight\": 40, \"reason\": \"explains concept of platform selection\"}\n},\n\"dominant\": \"personal_story\"\n}"
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 1.08,
+        "tokens_in": 316,
+        "tokens_out": 50,
+        "tokens_per_sec": 46.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"news\": {\"weight\": 100, \"reason\": \"shares current event\"},\n\"coordination\": {\"weight\": 80, \"reason\": \"calls to action\"}\n},\n\"dominant\": \"news\"\n}"
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 1.54,
+        "tokens_in": 343,
+        "tokens_out": 77,
+        "tokens_per_sec": 50.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"research\": {\"weight\": 90, \"reason\": \"asks questions and gathers data\"},\n\"coaching\": {\"weight\": 60, \"reason\": \"offers guidance on setting up email list\"},\n\"teaching\": {\"weight\": 20, \"reason\": \"explains concept of email sequence\"}\n},\n\"dominant\": \"research\"\n}"
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 1.72,
+        "tokens_in": 375,
+        "tokens_out": 88,
+        "tokens_per_sec": 51.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal model of information gradients\"},\n\"synthesis\": {\"weight\": 60, \"reason\": \"connects ideas from algorithms and architecture to information gradients\"},\n\"teaching\": {\"weight\": 40, \"reason\": \"explains concept of information gradients\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 1.6,
+        "tokens_in": 342,
+        "tokens_out": 81,
+        "tokens_per_sec": 50.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"coordination\": {\"weight\": 90, \"reason\": \"calls to action and organizing people\"},\n\"research\": {\"weight\": 60, \"reason\": \"asks questions and gathers data (links)\"},\n\"teaching\": {\"weight\": 40, \"reason\": \"explains concept of Go To Market strategy\"}\n},\n\"dominant\": \"coordination\"\n}"
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 1.42,
+        "tokens_in": 319,
+        "tokens_out": 74,
+        "tokens_per_sec": 52.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new framework for understanding the author's work\"},\n\"teaching\": {\"weight\": 10, \"reason\": \"explains concept of their own work in a way that others can understand\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 1.79,
+        "tokens_in": 351,
+        "tokens_out": 93,
+        "tokens_per_sec": 52.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal claim about how something works\"},\n\"observation\": {\"weight\": 10, \"reason\": \"describes a pattern (people who are good at selling are bad at delivering)\"},\n\"teaching\": {\"weight\": 20, \"reason\": \"explains concept of market trust\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 1.71,
+        "tokens_in": 371,
+        "tokens_out": 87,
+        "tokens_per_sec": 50.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces a new model (the 10th muse)\"},\n\"teaching\": {\"weight\": 60, \"reason\": \"explains concept of the 10th muse\"},\n\"prediction\": {\"weight\": 20, \"reason\": \"forecasts potential danger\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 1.69,
+        "tokens_in": 327,
+        "tokens_out": 88,
+        "tokens_per_sec": 52.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal claim about how something works\"},\n\"prediction\": {\"weight\": 10, \"reason\": \"forecasts a future outcome or trend with reasoning\"},\n\"teaching\": {\"weight\": 30, \"reason\": \"explains concept for others to understand\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 1.47,
+        "tokens_in": 352,
+        "tokens_out": 73,
+        "tokens_per_sec": 49.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"personal_story\": {\"weight\": 90, \"reason\": \"shares an experience\"},\n\"observation\": {\"weight\": 60, \"reason\": \"describes a pattern (failure mode)\"},\n\"teaching\": {\"weight\": 40, \"reason\": \"explains concept\"}\n},\n\"dominant\": \"personal_story\"\n}"
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 1.31,
+        "tokens_in": 309,
+        "tokens_out": 65,
+        "tokens_per_sec": 49.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\n\"components\": {\n\"original_theory\": {\"weight\": 90, \"reason\": \"introduces new causal claim about how something works\"},\n\"teaching\": {\"weight\": 10, \"reason\": \"explains concept in a general sense\"}\n},\n\"dominant\": \"original_theory\"\n}"
+      }
+    ]
+  },
+  "ollama-qwen3-4b": {
+    "model": "qwen3:4b",
+    "type": "ollama",
+    "cost_per_1M_in": 0,
+    "cost_per_1M_out": 0,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 124.9,
+    "avg_time_s": 5.95,
+    "total_tokens_in": 7434,
+    "total_tokens_out": 10500,
+    "avg_tokens_in": 354,
+    "avg_tokens_out": 500,
+    "total_cost_usd": 0.0,
+    "cost_per_1k_tweets": 0.0,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 10.94,
+        "tokens_in": 382,
+        "tokens_out": 500,
+        "tokens_per_sec": 45.7,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 5.15,
+        "tokens_in": 335,
+        "tokens_out": 500,
+        "tokens_per_sec": 97.0,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 5.02,
+        "tokens_in": 362,
+        "tokens_out": 500,
+        "tokens_per_sec": 99.5,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 5.31,
+        "tokens_in": 329,
+        "tokens_out": 500,
+        "tokens_per_sec": 94.2,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 5.66,
+        "tokens_in": 350,
+        "tokens_out": 500,
+        "tokens_per_sec": 88.3,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 5.38,
+        "tokens_in": 367,
+        "tokens_out": 500,
+        "tokens_per_sec": 93.0,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 5.77,
+        "tokens_in": 322,
+        "tokens_out": 500,
+        "tokens_per_sec": 86.6,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 5.85,
+        "tokens_in": 335,
+        "tokens_out": 500,
+        "tokens_per_sec": 85.4,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 5.98,
+        "tokens_in": 348,
+        "tokens_out": 500,
+        "tokens_per_sec": 83.7,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 6.16,
+        "tokens_in": 325,
+        "tokens_out": 500,
+        "tokens_per_sec": 81.2,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 5.89,
+        "tokens_in": 492,
+        "tokens_out": 500,
+        "tokens_per_sec": 84.9,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 8.49,
+        "tokens_in": 324,
+        "tokens_out": 500,
+        "tokens_per_sec": 58.9,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 5.73,
+        "tokens_in": 351,
+        "tokens_out": 500,
+        "tokens_per_sec": 87.2,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 5.59,
+        "tokens_in": 383,
+        "tokens_out": 500,
+        "tokens_per_sec": 89.5,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 5.51,
+        "tokens_in": 350,
+        "tokens_out": 500,
+        "tokens_per_sec": 90.7,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 5.47,
+        "tokens_in": 327,
+        "tokens_out": 500,
+        "tokens_per_sec": 91.4,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 5.41,
+        "tokens_in": 359,
+        "tokens_out": 500,
+        "tokens_per_sec": 92.5,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 5.24,
+        "tokens_in": 381,
+        "tokens_out": 500,
+        "tokens_per_sec": 95.4,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 5.31,
+        "tokens_in": 335,
+        "tokens_out": 500,
+        "tokens_per_sec": 94.1,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 5.49,
+        "tokens_in": 360,
+        "tokens_out": 500,
+        "tokens_per_sec": 91.1,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 5.54,
+        "tokens_in": 317,
+        "tokens_out": 500,
+        "tokens_per_sec": 90.3,
+        "output_parsed": false,
+        "error": null,
+        "raw_output": null
+      }
+    ]
+  },
+  "openrouter-deepseek-v3": {
+    "model": "deepseek/deepseek-chat",
+    "type": "openrouter",
+    "cost_per_1M_in": 0.27,
+    "cost_per_1M_out": 1.1,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 94.4,
+    "avg_time_s": 4.49,
+    "total_tokens_in": 7148,
+    "total_tokens_out": 1981,
+    "avg_tokens_in": 340,
+    "avg_tokens_out": 94,
+    "total_cost_usd": 0.004109,
+    "cost_per_1k_tweets": 0.1957,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 8.23,
+        "tokens_in": 364,
+        "tokens_out": 116,
+        "tokens_per_sec": 14.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coaching\": {\n      \"weight\": 90,\n      \"reason\": \"offers guidance and actionable advice, explicitly mentions coaching\"\n    },\n    \"coordination\": {\n      \"weight\": 70,\n      \"reason\": \"calls to action, organizing people for a test group\"\n    },\n    \"personal_story\": {\n      \"weight\": 30,\n      \"reason\": \"shares personal decision to start offering coaching\"\n    }\n  },\n  \"dominant\": \"coaching\"\n}\n```"
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 3.56,
+        "tokens_in": 321,
+        "tokens_out": 83,
+        "tokens_per_sec": 23.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 90,\n      \"reason\": \"calls to action for presale participation\"\n    },\n    \"news\": {\n      \"weight\": 80,\n      \"reason\": \"announces the launch of a presale and early bird pricing\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 3.56,
+        "tokens_in": 348,
+        "tokens_out": 79,
+        "tokens_per_sec": 22.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"observation\": {\"weight\": 30, \"reason\": \"describes data collection patterns\"}, \"teaching\": {\"weight\": 60, \"reason\": \"explains the concept of data collection and analysis\"}, \"research\": {\"weight\": 50, \"reason\": \"mentions systematic investigation through data collection\"}}, \"dominant\": \"teaching\"}\n```"
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 3.18,
+        "tokens_in": 316,
+        "tokens_out": 77,
+        "tokens_per_sec": 24.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 70,\n      \"reason\": \"calls to action for communication\"\n    },\n    \"personal_story\": {\n      \"weight\": 30,\n      \"reason\": \"shares a personal interaction\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 3.95,
+        "tokens_in": 335,
+        "tokens_out": 83,
+        "tokens_per_sec": 21.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 90,\n      \"reason\": \"shares a personal reflection and emotional experience\"\n    },\n    \"observation\": {\n      \"weight\": 70,\n      \"reason\": \"describes a personal pattern or phenomenon without theorizing\"\n    }\n  },\n  \"dominant\": \"personal_story\"\n}\n```"
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 4.55,
+        "tokens_in": 352,
+        "tokens_out": 84,
+        "tokens_per_sec": 18.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 90,\n      \"reason\": \"calls to action and organizes people for a collaborative effort\"\n    },\n    \"prediction\": {\n      \"weight\": 30,\n      \"reason\": \"forecasts a future action based on responses\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 3.92,
+        "tokens_in": 307,
+        "tokens_out": 54,
+        "tokens_per_sec": 13.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 70,\n      \"reason\": \"shares a personal experience about listening to commentary\"\n    }\n  },\n  \"dominant\": \"personal_story\"\n}\n```"
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 3.91,
+        "tokens_in": 320,
+        "tokens_out": 107,
+        "tokens_per_sec": 27.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 80,\n      \"reason\": \"calls to action and invites collaboration\"\n    },\n    \"personal_story\": {\n      \"weight\": 60,\n      \"reason\": \"shares a personal journey or experience\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"educational intent about launching microsaas\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 5.49,
+        "tokens_in": 335,
+        "tokens_out": 60,
+        "tokens_per_sec": 10.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"observation\": {\"weight\": 60, \"reason\": \"describes a current activity or pattern\"}, \"coordination\": {\"weight\": 30, \"reason\": \"hints at organizing or planning future work\"}}, \"dominant\": \"observation\"}\n```"
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 3.32,
+        "tokens_in": 311,
+        "tokens_out": 66,
+        "tokens_per_sec": 19.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"observation\": {\"weight\": 60, \"reason\": \"describes a data point (delivery time) without theorizing\"}, \"news\": {\"weight\": 40, \"reason\": \"shares an update or announcement about a delivery\"}}, \"dominant\": \"observation\"}\n```"
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 3.93,
+        "tokens_in": 485,
+        "tokens_out": 85,
+        "tokens_per_sec": 21.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"observation\": {\"weight\": 70, \"reason\": \"describes patterns in personal platform usage\"}, \"personal_story\": {\"weight\": 90, \"reason\": \"shares a personal journey of experimenting with platforms\"}, \"coordination\": {\"weight\": 20, \"reason\": \"mentions organizing content across platforms\"}}, \"dominant\": \"personal_story\"}\n```"
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 4.99,
+        "tokens_in": 311,
+        "tokens_out": 81,
+        "tokens_per_sec": 16.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"news\": {\n      \"weight\": 90,\n      \"reason\": \"shares an announcement about an upcoming event\"\n    },\n    \"coordination\": {\n      \"weight\": 70,\n      \"reason\": \"calls to action by inviting viewers to watch the premiere\"\n    }\n  },\n  \"dominant\": \"news\"\n}\n```"
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 4.31,
+        "tokens_in": 337,
+        "tokens_out": 123,
+        "tokens_per_sec": 28.5,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 70,\n      \"reason\": \"shares a personal experience about overcoming procrastination and setting up beta users\"\n    },\n    \"coordination\": {\n      \"weight\": 60,\n      \"reason\": \"calls to action by setting up beta users and adding an email sequence\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"educational intent by sharing progress on a project publicly\"\n    }\n  },\n  \"dominant\": \"personal_story\"\n}\n```"
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 5.19,
+        "tokens_in": 369,
+        "tokens_out": 155,
+        "tokens_per_sec": 29.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"introduces a new way of thinking about information gradients and knowledge depth\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"describes a pattern or phenomenon related to information gradients\"\n    },\n    \"synthesis\": {\n      \"weight\": 50,\n      \"reason\": \"connects the idea of information gradients to knowledge coherence and predictions\"\n    },\n    \"teaching\": {\n      \"weight\": 40,\n    "
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 5.76,
+        "tokens_in": 336,
+        "tokens_out": 132,
+        "tokens_per_sec": 22.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 70,\n      \"reason\": \"calls to action, organizing people to participate by dropping links and specifying needs\"\n    },\n    \"coaching\": {\n      \"weight\": 60,\n      \"reason\": \"offers actionable advice and guidance by promising to create a Go To Market strategy\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"explains the concept of a Go To Market strategy implicitly by offering to create one\"\n    }\n  },\n  \"dominant\": \"c"
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 4.18,
+        "tokens_in": 313,
+        "tokens_out": 118,
+        "tokens_per_sec": 28.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 70,\n      \"reason\": \"shares a personal experience or journey through the metaphor of a web\"\n    },\n    \"synthesis\": {\n      \"weight\": 50,\n      \"reason\": \"implies connecting multiple ideas or threads into a coherent narrative\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"could be explaining a concept or process metaphorically\"\n    }\n  },\n  \"dominant\": \"personal_story\"\n}\n```"
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 4.15,
+        "tokens_in": 346,
+        "tokens_out": 78,
+        "tokens_per_sec": 18.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"observation\": {\n      \"weight\": 70,\n      \"reason\": \"describes a pattern or phenomenon without theorizing\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"explains a concept for others to understand\"\n    }\n  },\n  \"dominant\": \"observation\"\n}\n```"
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 9.93,
+        "tokens_in": 368,
+        "tokens_out": 177,
+        "tokens_per_sec": 17.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"introduces a new concept of 'Silence' as the 10th muse, suggesting a novel framework or model\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"describes personal observations and evolving understanding of 'Silence'\"\n    },\n    \"personal_story\": {\n      \"weight\": 50,\n      \"reason\": \"shares a personal journey and evolving relationship with the concept of 'Silence'\"\n    },\n    \"meta_analysis\""
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 2.37,
+        "tokens_in": 324,
+        "tokens_out": 64,
+        "tokens_per_sec": 27.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"original_theory\": {\"weight\": 70, \"reason\": \"introduces a causal claim about conscious economics\"}, \"teaching\": {\"weight\": 30, \"reason\": \"explains the concept of conscious economics\"}}, \"dominant\": \"original_theory\"}\n```"
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 2.49,
+        "tokens_in": 346,
+        "tokens_out": 78,
+        "tokens_per_sec": 31.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"observation\": {\"weight\": 70, \"reason\": \"describes a personal pattern\"}, \"personal_story\": {\"weight\": 60, \"reason\": \"shares a personal experience\"}, \"teaching\": {\"weight\": 30, \"reason\": \"explains a concept for others to understand\"}}, \"dominant\": \"observation\"}\n```"
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 3.39,
+        "tokens_in": 304,
+        "tokens_out": 81,
+        "tokens_per_sec": 23.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"observation\": {\n      \"weight\": 70,\n      \"reason\": \"describes a pattern or phenomenon about trust\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"explains a concept about trust in a concise manner\"\n    }\n  },\n  \"dominant\": \"observation\"\n}\n```"
+      }
+    ]
+  },
+  "openrouter-qwen2.5-7b": {
+    "model": "qwen/qwen-2.5-7b-instruct",
+    "type": "openrouter",
+    "cost_per_1M_in": 0.07,
+    "cost_per_1M_out": 0.16,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 135.4,
+    "avg_time_s": 6.45,
+    "total_tokens_in": 7392,
+    "total_tokens_out": 1231,
+    "avg_tokens_in": 352,
+    "avg_tokens_out": 59,
+    "total_cost_usd": 0.000714,
+    "cost_per_1k_tweets": 0.034,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 1.23,
+        "tokens_in": 380,
+        "tokens_out": 48,
+        "tokens_per_sec": 39.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coaching\": {\"weight\": 80, \"reason\": \"offers guidance and actionable advice\"}, \"news\": {\"weight\": 20, \"reason\": \"announces new program and test group\"}}}"
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 6.54,
+        "tokens_in": 333,
+        "tokens_out": 40,
+        "tokens_per_sec": 6.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 100, \"reason\": \"calls to action for presale and early bird pricing\"}}, \"dominant\": \"coordination\"}"
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 6.6,
+        "tokens_in": 360,
+        "tokens_out": 81,
+        "tokens_per_sec": 12.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"research\": {\"weight\": 30, \"reason\": \"discusses data collection and analysis\"}, \"teaching\": {\"weight\": 60, \"reason\": \"explains concept and provides examples\"}, \"original_theory\": {\"weight\": 10, \"reason\": \"brief mention of collecting data and analyzing it\"}}, \"dominant\": \"teaching\"}"
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 6.11,
+        "tokens_in": 327,
+        "tokens_out": 41,
+        "tokens_per_sec": 6.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 100, \"reason\": \"calls to action by asking to open DMs or follow\"}}, \"dominant\": \"coordination\"}"
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 6.21,
+        "tokens_in": 348,
+        "tokens_out": 36,
+        "tokens_per_sec": 5.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"personal_story\": {\"weight\": 100, \"reason\": \"shares an experience and personal journey\"}}, \"dominant\": \"personal_story\"}"
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 7.16,
+        "tokens_in": 365,
+        "tokens_out": 60,
+        "tokens_per_sec": 8.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 80, \"reason\": \"calls to action and organizing people\"}, \"teaching\": {\"weight\": 20, \"reason\": \"explains concept of setting a timer for responses\"}}, \"dominant\": \"coordination\"}"
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 6.34,
+        "tokens_in": 320,
+        "tokens_out": 64,
+        "tokens_per_sec": 10.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"observation\": {\"weight\": 60, \"reason\": \"describes a pattern (became distracting) without theorizing\"}, \"personal_story\": {\"weight\": 40, \"reason\": \"shares an experience (tried listening to commentary)\"}},\"dominant\": \"observation\"}"
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 6.65,
+        "tokens_in": 333,
+        "tokens_out": 58,
+        "tokens_per_sec": 8.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"coordination\": {\"weight\": 80, \"reason\": \"calls to action to join the journey\"}, \"news\": {\"weight\": 20, \"reason\": \"announces The SaaS Factory launch\"}}, \"dominant\": \"coordination\"}"
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 6.48,
+        "tokens_in": 346,
+        "tokens_out": 68,
+        "tokens_per_sec": 10.5,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 60, \"reason\": \"introduces a new approach to SEO optimization\"}, \"teaching\": {\"weight\": 40, \"reason\": \"explains the process of converting content library to SEO-focused content\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 6.1,
+        "tokens_in": 323,
+        "tokens_out": 39,
+        "tokens_per_sec": 6.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"news\": {\"weight\": 100, \"reason\": \"shares current event (delivery of a new Macbook)\"}}, \"dominant\": \"news\"}"
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 6.61,
+        "tokens_in": 490,
+        "tokens_out": 57,
+        "tokens_per_sec": 8.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"observation\": {\"weight\": 80, \"reason\": \"describes personal journey and experiences with different platforms\"}, \"teaching\": {\"weight\": 20, \"reason\": \"offers advice on platform usage\"}}, \"dominant\": \"observation\"}"
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 10.4,
+        "tokens_in": 322,
+        "tokens_out": 33,
+        "tokens_per_sec": 3.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"news\": {\"weight\": 100, \"reason\": \"shares information about an upcoming event on the user's YouTube channel\"}}}"
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 6.39,
+        "tokens_in": 349,
+        "tokens_out": 66,
+        "tokens_per_sec": 10.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"observation\": {\"weight\": 60, \"reason\": \"describes a pattern (procrastination) and actions taken\"}, \"coordination\": {\"weight\": 40, \"reason\": \"calls to action for beta users and updates to the site\"}}, \"dominant\": \"observation\"}"
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 6.56,
+        "tokens_in": 381,
+        "tokens_out": 57,
+        "tokens_per_sec": 8.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 80, \"reason\": \"introduces new causal model about information gradients and depth of knowledge\"}, \"teaching\": {\"weight\": 20, \"reason\": \"explains concept to the reader\"}}}"
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 6.59,
+        "tokens_in": 348,
+        "tokens_out": 84,
+        "tokens_per_sec": 12.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"research\": {\"weight\": 20, \"reason\": \"asks for data (links to site) for analysis\"}, \"teaching\": {\"weight\": 60, \"reason\": \"explains how to get a GTM strategy\"}, \"coordination\": {\"weight\": 20, \"reason\": \"calls to action for engagement\"}}, \"dominant\": \"teaching\"}"
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 6.62,
+        "tokens_in": 325,
+        "tokens_out": 61,
+        "tokens_per_sec": 9.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 60, \"reason\": \"introduces new causal model\"}, \"teaching\": {\"weight\": 40, \"reason\": \"encourages others to understand the concept\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 6.36,
+        "tokens_in": 357,
+        "tokens_out": 61,
+        "tokens_per_sec": 9.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"observation\": {\"weight\": 70, \"reason\": \"describes a pattern without theorizing\"}, \"meta_analysis\": {\"weight\": 30, \"reason\": \"reflects on the effectiveness of certain individuals in the market\"}}, \"dominant\": \"observation\"}"
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 6.47,
+        "tokens_in": 379,
+        "tokens_out": 76,
+        "tokens_per_sec": 11.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 60, \"reason\": \"introduces the concept of a 10th muse and her role\"}, \"teaching\": {\"weight\": 40, \"reason\": \"explains the concept of the 10th muse and her nature\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 6.31,
+        "tokens_in": 333,
+        "tokens_out": 76,
+        "tokens_per_sec": 12.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 80, \"reason\": \"introduces new causal model of how data mining affects public perception of billionaires and proposes a solution\"}, \"teaching\": {\"weight\": 20, \"reason\": \"explains the concept of conscious economics as a solution\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 6.8,
+        "tokens_in": 358,
+        "tokens_out": 66,
+        "tokens_per_sec": 9.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 60, \"reason\": \"introduces new causal model of feedback and iteration process\"}, \"teaching\": {\"weight\": 40, \"reason\": \"explains concept of feedback and iteration process\"}}, \"dominant\": \"original_theory\"}"
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 6.85,
+        "tokens_in": 315,
+        "tokens_out": 59,
+        "tokens_per_sec": 8.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "{\"components\": {\"original_theory\": {\"weight\": 80, \"reason\": \"introduces new causal model\"}, \"observation\": {\"weight\": 20, \"reason\": \"describes a pattern without theorizing\"}}, \"dominant\": \"original_theory\"}"
+      }
+    ]
+  },
+  "openrouter-gemini-flash": {
+    "model": "google/gemini-2.0-flash-001",
+    "type": "openrouter",
+    "cost_per_1M_in": 0.1,
+    "cost_per_1M_out": 0.4,
+    "total_tweets": 21,
+    "errors": 21,
+    "total_time_s": 0,
+    "avg_time_s": 0.0,
+    "total_tokens_in": 0,
+    "total_tokens_out": 0,
+    "avg_tokens_in": 0,
+    "avg_tokens_out": 0,
+    "total_cost_usd": 0,
+    "cost_per_1k_tweets": 0.0,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 0.18,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 0.17,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 0.16,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 0.16,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 0.11,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 0.12,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 1.48,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 0.16,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 0.15,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 0.13,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 0.14,
+        "tokens_in": null,
+        "tokens_out": null,
+        "tokens_per_sec": null,
+        "output_parsed": false,
+        "error": "No endpoints found for google/gemini-2.0-flash-001.",
+        "raw_output": null
+      }
+    ]
+  },
+  "openrouter-gemini-2.5-flash-lite": {
+    "model": "google/gemini-2.5-flash-lite",
+    "type": "openrouter",
+    "cost_per_1M_in": 0.1,
+    "cost_per_1M_out": 0.4,
+    "total_tweets": 21,
+    "errors": 0,
+    "total_time_s": 24.0,
+    "avg_time_s": 1.14,
+    "total_tokens_in": 7364,
+    "total_tokens_out": 3376,
+    "avg_tokens_in": 351,
+    "avg_tokens_out": 161,
+    "total_cost_usd": 0.002087,
+    "cost_per_1k_tweets": 0.0994,
+    "results": [
+      {
+        "tweet_id": "1384147446117199879",
+        "elapsed_s": 1.28,
+        "tokens_in": 378,
+        "tokens_out": 225,
+        "tokens_per_sec": 176.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coaching\": {\n      \"weight\": 90,\n      \"reason\": \"The tweet explicitly states the intention to offer 1-1 coaching and outlines a program.\"\n    },\n    \"personal_story\": {\n      \"weight\": 30,\n      \"reason\": \"The tweet begins with 'Spent the weekend doing some thinking,' which frames the offer as a result of personal reflection.\"\n    },\n    \"coordination\": {\n      \"weight\": 70,\n      \"reason\": \"The tweet calls for interested individuals to 'Let me know' and offers "
+      },
+      {
+        "tweet_id": "1422337220615286786",
+        "elapsed_s": 0.83,
+        "tokens_in": 331,
+        "tokens_out": 77,
+        "tokens_per_sec": 92.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"news\": {\"weight\": 90, \"reason\": \"Announces the launch of a presale and provides a link to the landing page.\"}, \"coordination\": {\"weight\": 70, \"reason\": \"Encourages users to take action by purchasing during the presale period and highlights a time-sensitive offer.\"}}}\n```"
+      },
+      {
+        "tweet_id": "1455904572094963712",
+        "elapsed_s": 1.1,
+        "tokens_in": 358,
+        "tokens_out": 175,
+        "tokens_per_sec": 158.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"observation\": {\n      \"weight\": 60,\n      \"reason\": \"Describes the process of collecting and analyzing data, including qualitative data from customer feedback, as a general concept.\"\n    },\n    \"teaching\": {\n      \"weight\": 50,\n      \"reason\": \"Explains the core idea of data collection and analysis in a way that aims to clarify the concept for the recipient.\"\n    },\n    \"original_theory\": {\n      \"weight\": 40,\n      \"reason\": \"Suggests a broader application of da"
+      },
+      {
+        "tweet_id": "1494506070341046272",
+        "elapsed_s": 0.77,
+        "tokens_in": 326,
+        "tokens_out": 127,
+        "tokens_per_sec": 165.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 90,\n      \"reason\": \"The tweet is a direct call to action, asking the recipient to open their DMs or follow the sender in order to facilitate the delivery of analysis.\"\n    },\n    \"teaching\": {\n      \"weight\": 20,\n      \"reason\": \"While not explicitly teaching, the mention of 'analysis' implies the sender has information that could be educational or informative to the recipient.\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1519735925743538178",
+        "elapsed_s": 0.97,
+        "tokens_in": 347,
+        "tokens_out": 106,
+        "tokens_per_sec": 109.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 90,\n      \"reason\": \"The tweet shares a personal reflection on past opportunities and current feelings about relationships formed online.\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"It describes a pattern of meeting people online and the potential impact of those connections.\"\n    }\n  },\n  \"dominant\": \"personal_story\"\n}\n```"
+      },
+      {
+        "tweet_id": "1547291081838133250",
+        "elapsed_s": 2.8,
+        "tokens_in": 364,
+        "tokens_out": 121,
+        "tokens_per_sec": 43.2,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 90,\n      \"reason\": \"Directly calls out specific users and sets a time limit for a collective action, indicating a desire for organized participation.\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"While not explicitly explaining a concept, the phrase 'have some fun with it!' suggests an educational or engaging intent for the participants.\"\n    }\n  },\n  \"dominant\": \"coordination\"\n}\n```"
+      },
+      {
+        "tweet_id": "1577816770181750784",
+        "elapsed_s": 0.63,
+        "tokens_in": 316,
+        "tokens_out": 48,
+        "tokens_per_sec": 76.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"personal_story\": {\"weight\": 70, \"reason\": \"Shares a personal experience of trying to listen to commentary and finding it distracting.\"}}, \"dominant\": \"personal_story\"}\n```"
+      },
+      {
+        "tweet_id": "1620127339727183875",
+        "elapsed_s": 0.88,
+        "tokens_in": 330,
+        "tokens_out": 70,
+        "tokens_per_sec": 79.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"coordination\": {\"weight\": 90, \"reason\": \"Invites others to join a journey and promotes a specific initiative.\"}, \"news\": {\"weight\": 60, \"reason\": \"Announces the existence and purpose of 'The SaaS Factory'.\"}}, \"dominant\": \"coordination\"}\n```"
+      },
+      {
+        "tweet_id": "1674085347133648904",
+        "elapsed_s": 1.06,
+        "tokens_in": 347,
+        "tokens_out": 220,
+        "tokens_per_sec": 207.7,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Proposes a new approach to content repurposing by converting a library into SEO-focused content that links back to original sources, implying a causal relationship between this strategy and improved SEO.\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"Mentions the current state of having a content library that needs productization, which is a descriptive observation of a current situation."
+      },
+      {
+        "tweet_id": "1755280965893562725",
+        "elapsed_s": 0.67,
+        "tokens_in": 320,
+        "tokens_out": 43,
+        "tokens_per_sec": 64.6,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"news\": {\"weight\": 90, \"reason\": \"Shares a link to a news article or announcement about a product delivery.\"}}, \"dominant\": \"news\"}\n```"
+      },
+      {
+        "tweet_id": "1789351719714844924",
+        "elapsed_s": 1.1,
+        "tokens_in": 494,
+        "tokens_out": 223,
+        "tokens_per_sec": 202.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 95,\n      \"reason\": \"The tweet is a detailed account of the author's personal journey and experiences with different writing platforms and social media.\"\n    },\n    \"observation\": {\n      \"weight\": 60,\n      \"reason\": \"The author describes patterns in their own behavior and the perceived changes in their writing based on platform success.\"\n    },\n    \"synthesis\": {\n      \"weight\": 50,\n      \"reason\": \"The author connects their e"
+      },
+      {
+        "tweet_id": "1815427025513140228",
+        "elapsed_s": 0.85,
+        "tokens_in": 320,
+        "tokens_out": 69,
+        "tokens_per_sec": 81.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\"components\": {\"news\": {\"weight\": 90, \"reason\": \"Announces an upcoming event/premiere on a specific platform.\"}, \"coordination\": {\"weight\": 60, \"reason\": \"Implies an invitation to watch and engage with the premiere.\"}}, \"dominant\": \"news\"}\n```"
+      },
+      {
+        "tweet_id": "1862168618215096820",
+        "elapsed_s": 1.04,
+        "tokens_in": 346,
+        "tokens_out": 156,
+        "tokens_per_sec": 149.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"personal_story\": {\n      \"weight\": 90,\n      \"reason\": \"The tweet describes a personal accomplishment and the steps taken to achieve it, including overcoming procrastination.\"\n    },\n    \"observation\": {\n      \"weight\": 60,\n      \"reason\": \"It describes the current state of a project: beta users set up and the first email added.\"\n    },\n    \"coordination\": {\n      \"weight\": 30,\n      \"reason\": \"Mentioning '@BuildInPublicU' and setting up users implies a collabora"
+      },
+      {
+        "tweet_id": "1887514020527145238",
+        "elapsed_s": 1.17,
+        "tokens_in": 380,
+        "tokens_out": 257,
+        "tokens_per_sec": 220.0,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"Mentions seeing the work of others, implying an observation of their contributions.\"\n    },\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Introduces a new causal claim about information gradients representing the 'depth' of knowledge and their relationship to coherence and probabilities vs. predictions.\"\n    },\n    \"synthesis\": {\n      \"weight\": 50,\n      \"reason\": \"Connects the observed work of"
+      },
+      {
+        "tweet_id": "1912124551988642166",
+        "elapsed_s": 1.17,
+        "tokens_in": 346,
+        "tokens_out": 229,
+        "tokens_per_sec": 196.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"coordination\": {\n      \"weight\": 90,\n      \"reason\": \"The tweet explicitly asks users to drop links and specify their needs, indicating a clear call to action for collaboration and service provision.\"\n    },\n    \"coaching\": {\n      \"weight\": 85,\n      \"reason\": \"The tweet offers to create a Go-To-Market strategy, which is a form of direct guidance and actionable advice for individuals or companies.\"\n    },\n    \"teaching\": {\n      \"weight\": 30,\n      \"reason\": \"Wh"
+      },
+      {
+        "tweet_id": "1929905386229751834",
+        "elapsed_s": 1.12,
+        "tokens_in": 323,
+        "tokens_out": 200,
+        "tokens_per_sec": 177.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"The phrase 'untangle the web I've woven' suggests the author has created a complex system or model and is now preparing to explain or reveal its structure, implying a new theoretical construction.\"\n    },\n    \"teaching\": {\n      \"weight\": 50,\n      \"reason\": \"The intent to 'untangle' and show something 'for all to see in its glory' suggests an educational purpose, aiming to make a complex idea understandabl"
+      },
+      {
+        "tweet_id": "1940521621275500744",
+        "elapsed_s": 1.08,
+        "tokens_in": 356,
+        "tokens_out": 171,
+        "tokens_per_sec": 158.8,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Introduces a causal claim about the relationship between sales ability and delivery ability, and its impact on market trust.\"\n    },\n    \"observation\": {\n      \"weight\": 50,\n      \"reason\": \"Describes a pattern observed in the market regarding the difficulty of selling before validating and the characteristics of people good at selling vs. delivering.\"\n    },\n    \"synthesis\": {\n      \"weight\": 40,\n      \"re"
+      },
+      {
+        "tweet_id": "1965614505708454246",
+        "elapsed_s": 1.62,
+        "tokens_in": 380,
+        "tokens_out": 230,
+        "tokens_per_sec": 142.1,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Introduces the concept of a '10th muse' named Silence, proposing a new idea about its nature and role.\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"Describes a personal observation and evolving understanding of 'Silence' as a muse, noting its initial perceived 'evil' nature and current understanding of its 'dangerous' quality.\"\n    },\n    \"personal_story\": {\n      \"weight\": 40,\n      \"r"
+      },
+      {
+        "tweet_id": "1992271465392336938",
+        "elapsed_s": 1.23,
+        "tokens_in": 332,
+        "tokens_out": 199,
+        "tokens_per_sec": 161.4,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Proposes a causal link between data mining of people's time and negative sentiment towards billionaires, and introduces 'conscious economics' as a solution.\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"Describes a perceived pattern of public sentiment towards billionaires.\"\n    },\n    \"synthesis\": {\n      \"weight\": 40,\n      \"reason\": \"Connects the concepts of data mining, wealth accumu"
+      },
+      {
+        "tweet_id": "2016628149937729611",
+        "elapsed_s": 1.57,
+        "tokens_in": 357,
+        "tokens_out": 277,
+        "tokens_per_sec": 176.9,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"The tweet describes a personal 'failure mode' and explains the causal chain of events leading to it (putting out content, lack of feedback, rapid iteration, overloading people). This constitutes a new, albeit personal, causal model of their own behavior.\"\n    },\n    \"observation\": {\n      \"weight\": 50,\n      \"reason\": \"The tweet starts by observing a pattern in their own behavior: 'I put out a lot of things"
+      },
+      {
+        "tweet_id": "2036071452152090841",
+        "elapsed_s": 1.02,
+        "tokens_in": 313,
+        "tokens_out": 153,
+        "tokens_per_sec": 149.3,
+        "output_parsed": true,
+        "error": null,
+        "raw_output": "```json\n{\n  \"components\": {\n    \"original_theory\": {\n      \"weight\": 70,\n      \"reason\": \"Proposes a fundamental causal claim about the world's operation based on trust.\"\n    },\n    \"observation\": {\n      \"weight\": 30,\n      \"reason\": \"Acknowledges a current difficulty in perceiving this pattern ('hard to see right now').\"\n    },\n    \"teaching\": {\n      \"weight\": 20,\n      \"reason\": \"Presents a core idea in a concise, declarative way, implying an educational or philosophical point.\"\n    }\n  },\n "
+      }
+    ]
+  }
+}
